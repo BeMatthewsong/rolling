@@ -84,24 +84,24 @@ $ npx vite
 <table>
   <tbody>
     <tr>
-      <td><img src="https://github.com/BeMatthewsong/vanillaJS/assets/98685266/6bdcccd4-e07f-42ef-a1d3-9ca3ea5c11a5" /></td>
-      <td><img alt="image" src="https://github.com/BeMatthewsong/vanillaJS/assets/98685266/c684d5af-4cc2-49fd-ba89-3a48d9b697ce"></td>
+      <td><img src="https://github.com/BeMatthewsong/rolling/assets/98685266/243c2207-bdb6-41a4-b092-80a2da37f5f4" /></td>
+      <td><img alt="image" src="https://github.com/BeMatthewsong/rolling/assets/98685266/4e29ba0f-56a8-4d53-be73-201e51f71f6e"></td>
     </tr>
     <tr>
       <td>소개 페이지</td>
       <td>리스트 페이지</td>
     </tr>
     <tr>
-      <td><img width="1056" alt="image" src="https://github.com/BeMatthewsong/vanillaJS/assets/98685266/5560b52b-c102-43e3-bda7-bda2139d2d81"></td>
-      <td><img width="1055" alt="image" src="https://github.com/BeMatthewsong/vanillaJS/assets/98685266/c8a62d95-d19f-43a2-a97c-bac39411b85d"></td>
+      <td><img width="1056" alt="image" src="https://github.com/BeMatthewsong/rolling/assets/98685266/51f0d563-2f64-4e56-a13b-36edcb77f423"></td>
+      <td><img width="1055" alt="image" src="https://github.com/BeMatthewsong/rolling/assets/98685266/b1a9188c-0154-4507-8c49-198c9de93216"></td>
     </tr>
     <tr>
       <td>to 페이지 </td>
       <td>From 페이지</td>
     </tr>
      <tr>
-      <td><img width="1043" alt="image" src="https://github.com/BeMatthewsong/vanillaJS/assets/98685266/e00e82fa-6dc3-4db7-83d7-4989ce7c1b3e"></td>
-      <td><img width="1048" alt="image" src="https://github.com/BeMatthewsong/vanillaJS/assets/98685266/efaaea66-614e-4480-b611-33715422facf"></td>
+      <td><img width="1043" alt="image" src="https://github.com/BeMatthewsong/rolling/assets/98685266/c095ec99-aafd-487b-8234-9045784157da"></td>
+      <td><img width="1048" alt="image" src="https://github.com/BeMatthewsong/rolling/assets/98685266/c53a5b78-2e47-4d48-8b66-47a524e5d116"></td>
     </tr>
     <tr>
       <td>롤링 페이퍼 페이지</td>
