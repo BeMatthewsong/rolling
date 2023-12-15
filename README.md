@@ -1,6 +1,6 @@
 # ![logo](https://github.com/codeit-team8/rolling/assets/98685266/a7926b3a-cfb7-4754-bc32-6239c10f2127) Rolling
 
-<p align="center"><img  alt="image" src="https://github.com/BeMatthewsong/vanillaJS/assets/98685266/5fefcf12-2972-4c99-bc84-de1bf0910760"></p>
+<p align="center"><img  alt="image" src="https://github.com/BeMatthewsong/rolling/assets/98685266/a6b4129b-bd70-4d41-8eee-956704cb6a88"></p>
 
 
 ## 📧 평소에 표현하지 못했던 말을 할 수 있는 공간, Rolling   
@@ -24,7 +24,7 @@ Rolling이라는 자리를 빌어 표현해보세요.
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://github.com/BeMatthewsong/vanillaJS/assets/98685266/f7555406-5578-41ff-ac9b-b233cbcfa03d" width="200px;" alt=""/><br /><sub><b>팀장 : 신혜윤</b></sub><br /></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/144667455?v=4" width="200px;" alt=""/><br /><sub><b>팀장 : 신혜윤</b></sub><br /></td>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/144667600?v=4" width="200px;" alt=""/><br /><sub><b>팀원 : 구혜지</b></sub><br /></td>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/49144662?v=4" width="200px;" alt=""/><br /><sub><b>팀원 : 손상희</b></sub><br /></td>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/98685266?v=4" width="200px;" alt=""/><br /><sub><b>팀원 : 송민혁</b></sub><br /></td>
